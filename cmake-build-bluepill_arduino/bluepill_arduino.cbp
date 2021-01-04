@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="bluepill_arduino"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Production">
+				<Option working_dir="C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 Production"/>
+					<CompileFile command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Debug">
+				<Option working_dir="C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 Debug"/>
+					<CompileFile command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Z_DUMMY_TARGET">
+				<Option output="C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Z_DUMMY_TARGET" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/kjh/CLionProjects/BluePill_Arduino/include"/>
+					<Add directory="C:/Users/kjh/CLionProjects/BluePill_Arduino/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino/avr"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32/LL"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32/usb"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32/OpenAMP"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32/usb/hid"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32/usb/cdc"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Drivers/STM32F4xx_HAL_Driver/Inc"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Drivers/STM32F4xx_HAL_Driver/Src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/STM32F1xx"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Middlewares/ST/STM32_USB_Device_Library/Core/Inc"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Middlewares/ST/STM32_USB_Device_Library/Core/Src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Middlewares/OpenAMP"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Middlewares/OpenAMP/open-amp/lib/include"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Middlewares/OpenAMP/libmetal/lib/include"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Middlewares/OpenAMP/virtual_driver"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-cmsis/CMSIS/Core/Include"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-cmsis/CMSIS/DSP/Include"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/variants/Generic_F103Cx"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/CMSIS_DSP/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/EEPROM/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/IWatchdog/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/Keyboard/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/Mouse/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/SPI/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/Servo/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/SoftwareSerial/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/SrcWrapper/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/Wire/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1/arm-none-eabi"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include-fixed"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/tool-unity"/>
+					<Add directory="C:/MinGW32_7-3/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/MinGW32_7-3/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/MinGW32_7-3/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/MinGW32_7-3/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/MinGW32_7-3/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/MinGW32_7-3/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 Z_DUMMY_TARGET"/>
+					<CompileFile command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Z_DUMMY_TARGET/fast">
+				<Option output="C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Z_DUMMY_TARGET" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/kjh/CLionProjects/BluePill_Arduino/include"/>
+					<Add directory="C:/Users/kjh/CLionProjects/BluePill_Arduino/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino/avr"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32/LL"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32/usb"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32/OpenAMP"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32/usb/hid"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32/usb/cdc"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Drivers/STM32F4xx_HAL_Driver/Inc"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Drivers/STM32F4xx_HAL_Driver/Src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/STM32F1xx"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Middlewares/ST/STM32_USB_Device_Library/Core/Inc"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Middlewares/ST/STM32_USB_Device_Library/Core/Src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Middlewares/OpenAMP"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Middlewares/OpenAMP/open-amp/lib/include"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Middlewares/OpenAMP/libmetal/lib/include"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Middlewares/OpenAMP/virtual_driver"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-cmsis/CMSIS/Core/Include"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/system/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-cmsis/CMSIS/DSP/Include"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/cores/arduino"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/variants/Generic_F103Cx"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/CMSIS_DSP/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/EEPROM/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/IWatchdog/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/Keyboard/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/Mouse/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/SPI/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/Servo/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/SoftwareSerial/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/SrcWrapper/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/framework-arduinoststm32/libraries/Wire/src"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1/arm-none-eabi"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include-fixed"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include"/>
+					<Add directory="C:/Users/kjh/.platformio/packages/tool-unity"/>
+					<Add directory="C:/MinGW32_7-3/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/MinGW32_7-3/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/MinGW32_7-3/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/MinGW32_7-3/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/MinGW32_7-3/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/MinGW32_7-3/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 Z_DUMMY_TARGET/fast"/>
+					<CompileFile command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW32_7-3/bin/mingw32-make.exe -f &quot;C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/kjh/CLionProjects/BluePill_Arduino/src/main.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/kjh/CLionProjects/BluePill_Arduino/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

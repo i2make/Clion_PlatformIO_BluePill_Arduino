@@ -1,0 +1,5 @@
+C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/CMakeFiles/Production.dir
+C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/CMakeFiles/edit_cache.dir
+C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/CMakeFiles/Debug.dir
+C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/CMakeFiles/Z_DUMMY_TARGET.dir
+C:/Users/kjh/CLionProjects/BluePill_Arduino/cmake-build-bluepill_arduino/CMakeFiles/rebuild_cache.dir

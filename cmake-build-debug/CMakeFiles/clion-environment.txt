@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@C:\MinGW32_7-3
+Options: msvc.arch=x86
+
+Options:

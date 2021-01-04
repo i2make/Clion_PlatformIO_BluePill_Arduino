@@ -1,0 +1,1 @@
+C:\MinGW32_7-3\bin\g++.exe  -g   CMakeFiles/Z_DUMMY_TARGET.dir/src/main.cpp.obj  -o Z_DUMMY_TARGET 
